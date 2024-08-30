@@ -8,6 +8,45 @@ Thanks to all the contributors who have helped improve this project!
 
 [![Contributors](https://img.shields.io/github/contributors/deveshjoshi101/30-Days-DevOps.svg)](https://github.com/deveshjoshi101/30-Days-DevOps/graphs/contributors)
 
+# 30-Day DevOps Training Program
+
+Welcome to the 30-Day DevOps Training Program! This guide is designed to help you build a strong foundation in DevOps practices, focusing on Bash scripting, Linux fundamentals, Docker, Ansible, Jenkins, and Kubernetes.
+
+## Contributors ✨
+
+Thanks to these amazing people who have contributed to this project:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/username1"><img src="https://avatars.githubusercontent.com/username1?v=4" width="100px;" alt=""/><br /><sub><b>Username1</b></sub></a><br /><a href="https://github.com/deveshjoshi101/30-Days-DevOps/commits?author=username1" title="Code">💻</a> <a href="https://github.com/deveshjoshi101/30-Days-DevOps/issues?q=author%3Ausername1" title="Issues">🐛</a></td>
+    <td align="center"><a href="https://github.com/username2"><img src="https://avatars.githubusercontent.com/username2?v=4" width="100px;" alt=""/><br /><sub><b>Username2</b></sub></a><br /><a href="https://github.com/deveshjoshi101/30-Days-DevOps/commits?author=username2" title="Code">💻</a> <a href="https://github.com/deveshjoshi101/30-Days-DevOps/issues?q=author%3Ausername2" title="Issues">🐛</a></td>
+    <!-- Add more contributors here -->
+  </tr>
+</table>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://allcontributors.org/docs/en/specification) specification. Contributions of any kind welcome!
+
+## Getting Involved
+
+We welcome contributions of all kinds! If you'd like to contribute, please follow these steps:
+
+1. **Fork the repository** and clone it to your local machine.
+2. **Create a new branch** for your changes:
+   ```bash
+   git checkout -b my-feature-branch
+   git add .
+   git commit -m "Completed DevOps 30-Days"
+   git push origin my-feature-branch
+   ```
+3. **Pull Request** for merge:
+   Open a pull request on GitHub to merge your changes into the main repository.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
