@@ -2,7 +2,7 @@
 
 Welcome to the 30-Day DevOps Training Program! This guide is designed to help you build a strong foundation in DevOps practices, focusing on Bash scripting, Linux fundamentals, Docker, Ansible, Jenkins, and Kubernetes.
 
-## Contributors
+## Contributors ✨
 
 Thanks to all the contributors who have helped improve this project!
 
