@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "deveshjoshi101",
+      "name": "Devesh Joshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44858831?v=4",
+      "profile": "https://deveshjoshi101.github.io/devesh",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "30-Days-DevOps",
+  "projectOwner": "Deveshjoshi101"
+}

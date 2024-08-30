@@ -1,4 +1,7 @@
 # 30-Day DevOps Training Program
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome to the 30-Day DevOps Training Program! This guide is designed to help you build a strong foundation in DevOps practices, focusing on Bash scripting, Linux fundamentals, Docker, Ansible, Jenkins, and Kubernetes.
 
@@ -365,3 +368,25 @@ Feel free to reach out by creating an issue or starting a discussion in the repo
 ## Happy Learning!
 
 Enjoy your journey into the world of DevOps! Remember to take breaks, ask questions, and keep experimenting. Good luck!
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://deveshjoshi101.github.io/devesh"><img src="https://avatars.githubusercontent.com/u/44858831?v=4?s=100" width="100px;" alt="Devesh Joshi"/><br /><sub><b>Devesh Joshi</b></sub></a><br /><a href="https://github.com/Deveshjoshi101/30-Days-DevOps/commits?author=deveshjoshi101" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
