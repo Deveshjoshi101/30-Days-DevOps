@@ -4,6 +4,10 @@
 
 ---
 
+Once you combine the activities and knowledge with the scripts you finished this week, you will have finished the projects. Well done!
+
+---
+
 #### **1. Server Setup**
 
 ##### **1.1. Prepare the Server**
