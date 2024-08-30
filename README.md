@@ -4,7 +4,7 @@ Welcome to the 30-Day DevOps Training Program! This guide is designed to help yo
 
 ## Contributors ✨
 
-Thanks to all the contributors and challengers who completed 30 Days DevOps Program and helped improve this project!
+Thanks to all the contributors and challengers who completed **30 Days DevOps Program** and helped improve this project!
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
