@@ -26,7 +26,7 @@ Thanks to all the contributors who have helped improve this project!
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Contributions of any kind welcome!
+Contributions of any kind welcome! Thanks.
 
 ## Getting Involved
 
