@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# Update package list
+sudo apt update
+
+# Install Nginx
+sudo apt install -y nginx
+
+# Install MySQL
+sudo apt install -y mysql-server
+sudo mysql_secure_installation
+
+# Install PHP and necessary modules
+sudo apt install -y php-fpm php-mysql
+
+# Configure Nginx to use PHP
+sudo tee /etc/nginx/sites-available/default <<EOF
+server {
+    listen 80;
+    root /var/www/html;
+    index index.php index.html index.htm;
+
+    server_name your_domain;
+
+    location / {
+        try_files \$uri \$uri/ =404;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php7.4-fpm.sock;
+        fastcgi_param SCRIPT_FILENAME \$document_root\$fastcgi_script_name;
+        include fastcgi_params;
+    }
+}
+EOF
+
+# Restart Nginx and PHP-FPM to apply changes
+sudo systemctl restart nginx
+sudo systemctl restart php7.4-fpm
+
+# Provide feedback
+echo "LEMP stack installed and configured."
