@@ -1,7 +1,4 @@
 # 30-Day DevOps Training Program
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome to the 30-Day DevOps Training Program! This guide is designed to help you build a strong foundation in DevOps practices, focusing on Bash scripting, Linux fundamentals, Docker, Ansible, Jenkins, and Kubernetes.
 
@@ -9,15 +6,18 @@ Welcome to the 30-Day DevOps Training Program! This guide is designed to help yo
 
 Thanks to all the contributors who have helped improve this project!
 
-[![Contributors](https://img.shields.io/github/contributors/deveshjoshi101/30-Days-DevOps.svg)](https://github.com/deveshjoshi101/30-Days-DevOps/graphs/contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/username1"><img src="https://avatars.githubusercontent.com/username1?v=4" width="100px;" alt=""/><br /><sub><b>Username1</b></sub></a><br /><a href="https://github.com/deveshjoshi101/30-Days-DevOps/commits?author=username1" title="Code">💻</a> <a href="https://github.com/deveshjoshi101/30-Days-DevOps/issues?q=author%3Ausername1" title="Issues">🐛</a></td>
-    <td align="center"><a href="https://github.com/username2"><img src="https://avatars.githubusercontent.com/username2?v=4" width="100px;" alt=""/><br /><sub><b>Username2</b></sub></a><br /><a href="https://github.com/deveshjoshi101/30-Days-DevOps/commits?author=username2" title="Code">💻</a> <a href="https://github.com/deveshjoshi101/30-Days-DevOps/issues?q=author%3Ausername2" title="Issues">🐛</a></td>
+    <td align="center"><a href="https://github.com/deveshjoshi101"><img src="https://avatars.githubusercontent.com/u/44858831?v=4" width="100px;" alt=""/><br /><sub><b>Devesh Joshi</b></sub></a><br /><a href="https://github.com/deveshjoshi101/30-Days-DevOps/commits?author=deveshjoshi101" title="Code">💻</a> <a href="https://github.com/deveshjoshi101/30-Days-DevOps/issues?q=author%3Adeveshjoshi101" title="Issues">🐛</a></td>
     <!-- Add more contributors here -->
   </tr>
 </table>
