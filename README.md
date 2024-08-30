@@ -11,14 +11,6 @@ Thanks to all the contributors who have helped improve this project!
 
 [![Contributors](https://img.shields.io/github/contributors/deveshjoshi101/30-Days-DevOps.svg)](https://github.com/deveshjoshi101/30-Days-DevOps/graphs/contributors)
 
-# 30-Day DevOps Training Program
-
-Welcome to the 30-Day DevOps Training Program! This guide is designed to help you build a strong foundation in DevOps practices, focusing on Bash scripting, Linux fundamentals, Docker, Ansible, Jenkins, and Kubernetes.
-
-## Contributors ✨
-
-Thanks to these amazing people who have contributed to this project:
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
