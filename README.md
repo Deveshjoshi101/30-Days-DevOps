@@ -7,7 +7,7 @@ Welcome to the 30-Day DevOps Training Program! This guide is designed to help yo
 Thanks to all the contributors who have helped improve this project!
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -17,7 +17,8 @@ Thanks to all the contributors who have helped improve this project!
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://deveshjoshi101.github.io/devesh"><img src="https://avatars.githubusercontent.com/u/44858831?v=4?s=100" width="100px;" alt="Devesh Joshi"/><br /><sub><b>Devesh Joshi</b></sub></a><br /><a href="https://github.com/Deveshjoshi101/30-Days-DevOps/commits?author=deveshjoshi101" title="Code">💻</a> <a href="#content-deveshjoshi101" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/npurohit00"><img src="https://avatars.githubusercontent.com/u/57475931?v=4?s=100" width="100px;" alt="npurohit00"/><br /><sub><b>npurohit00</b></sub></a><br /><a href="https://github.com/Deveshjoshi101/30-Days-DevOps/commits?author=npurohit00" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/npurohit00"><img src="https://avatars.githubusercontent.com/u/57475931?v=4?s=100" width="100px;" alt="npurohit00"/><br /><sub><b>npurohit00</b></sub></a><br /><a href="#content-npurohit00" title="Content">🖋</a> <a href="https://github.com/Deveshjoshi101/30-Days-DevOps/commits?author=npurohit00" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Manjul-Joshi"><img src="https://avatars.githubusercontent.com/u/30933295?v=4?s=100" width="100px;" alt="Manjul-Joshi"/><br /><sub><b>Manjul-Joshi</b></sub></a><br /><a href="https://github.com/Deveshjoshi101/30-Days-DevOps/commits?author=Manjul-Joshi" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
