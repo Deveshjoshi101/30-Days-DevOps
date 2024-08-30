@@ -98,10 +98,19 @@ counter=1
 for file in "$directory"/*; do
     # Check if it's a file
     if [ -f "$file" ]; then
-        # Get the file extension
-        extension="${file##*.}"
-        # Construct the new file name
-        new_name="${prefix}_${counter}.${extension}"
+        # Get the base name and extension separately
+        base_name=$(basename "$file")
+        extension="${base_name##*.}"
+
+        # Check if the file has an extension
+        if [ "$base_name" == "$extension" ]; then
+            # No extension
+            new_name="${prefix}_${counter}"
+        else
+            # Has extension
+            new_name="${prefix}_${counter}.${extension}"
+        fi
+
         # Rename the file
         mv "$file" "$directory/$new_name"
         echo "Renamed $file to $new_name"
