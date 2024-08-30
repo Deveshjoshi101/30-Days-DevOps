@@ -28,7 +28,7 @@ Thanks to all the contributors and challengers who completed **30 Days DevOps Pr
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Contributions of any kind welcome! Thanks!!! 🎉🥳🎊🎁
+Contributions of any kind are welcome! Thanks!!! 🎉🥳🎊🎁
 
 ## Getting Involved
 
