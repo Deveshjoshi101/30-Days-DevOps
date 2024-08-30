@@ -379,7 +379,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://deveshjoshi101.github.io/devesh"><img src="https://avatars.githubusercontent.com/u/44858831?v=4?s=100" width="100px;" alt="Devesh Joshi"/><br /><sub><b>Devesh Joshi</b></sub></a><br /><a href="https://github.com/Deveshjoshi101/30-Days-DevOps/commits?author=deveshjoshi101" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://deveshjoshi101.github.io/devesh"><img src="https://avatars.githubusercontent.com/u/44858831?v=4?s=100" width="100px;" alt="Devesh Joshi"/><br /><sub><b>Devesh Joshi</b></sub></a><br /><a href="https://github.com/Deveshjoshi101/30-Days-DevOps/commits?author=deveshjoshi101" title="Code">💻</a> <a href="#content-deveshjoshi101" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
