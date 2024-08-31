@@ -30,6 +30,9 @@ Thank you for your interest in contributing to the 30-Days-DevOps project! We we
 - We use GitHub issues to track bugs and feature requests.
 - Pull requests are reviewed regularly, but response times may vary.
 
+## Maintainers
+Our maintainers are here to help and ensure that contributions are reviewed promptly. You can mention @Maintainers for assistance on issues or pull requests.
+
 ## Get in Touch
 - If you have any questions or need further guidance, feel free to reach out to the maintainers.
 
