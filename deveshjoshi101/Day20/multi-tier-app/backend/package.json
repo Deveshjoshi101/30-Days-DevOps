@@ -1,0 +1,13 @@
+{
+  "name": "multi-tier-backend",
+  "version": "1.0.0",
+  "description": "Backend for the multi-tier web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}

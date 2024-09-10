@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  web:
+    image: nginx
+    ports:
+      - "8080:80"
+    volumes:
+      - ./html:/usr/share/nginx/html
+    networks:
+      - webnet
+
+  db:
+    image: postgres
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    networks:
+      - webnet
+
+networks:
+  webnet:

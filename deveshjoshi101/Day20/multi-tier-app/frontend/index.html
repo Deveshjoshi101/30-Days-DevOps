@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Multi-Tier App</title>
+  </head>
+  <body>
+    <h1>Welcome to the Multi-Tier Web Application!</h1>
+    <p>This is the frontend served by Nginx.</p>
+    <p>API response from the backend: <span id="api-response"></span></p>
+
+    <script>
+      // Fetch data from the backend API
+      fetch("/api")
+        .then((response) => response.json())
+        .then((data) => {
+          document.getElementById("api-response").textContent = data.message;
+        })
+        .catch((error) => {
+          console.error("Error fetching data from the API:", error);
+        });
+    </script>
+  </body>
+</html>
