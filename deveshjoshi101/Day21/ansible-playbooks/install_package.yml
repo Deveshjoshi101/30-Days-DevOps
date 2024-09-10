@@ -1,0 +1,9 @@
+---
+- name: Install a package on remote servers
+  hosts: all
+  become: yes
+  tasks:
+    - name: Install the `htop` package
+      apt:
+        name: htop
+        state: present

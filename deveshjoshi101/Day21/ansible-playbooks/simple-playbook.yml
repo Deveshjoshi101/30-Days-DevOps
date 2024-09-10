@@ -1,0 +1,9 @@
+---
+- name: Simple Ansible Playbook
+  hosts: localhost
+  become: yes
+  tasks:
+    - name: Ensure Nginx is installed
+      apt:
+        name: nginx
+        state: present
